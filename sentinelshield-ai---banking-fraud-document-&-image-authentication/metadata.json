@@ -1,0 +1,6 @@
+{
+  "name": "SentinelShield AI - Banking Fraud Document & Image Authentication",
+  "description": "Enterprise Decision Intelligence & AI-powered document authentication system for banking fraud prevention with ephemeral in-memory inspection under 25 MB footprint.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
